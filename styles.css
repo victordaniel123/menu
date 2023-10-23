@@ -58,7 +58,7 @@ body, html {
     background-color: rgba(255, 255, 255, 0.7);
     width: 150px; /* Ancho del botón */
     height: 150px; /* Altura del botón */
-    margin: 5px 5px; /* Margen entre botones */
+    margin: 15px 5px; /* Margen entre botones */
     border: 2px solid rgba(255, 255, 255, 0.7); /* Borde blanco semitransparente */
     border-radius: 10px; /* Esquinas redondeadas */
     overflow: hidden; /* Evita que las imágenes sobresalgan del botón */
